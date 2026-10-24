@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java Developer with 2.6+ years of hands-on experience in designing, developing, and maintaining scalable backend applications. My expertise includes Java, Spring Boot, Microservices, Hibernate, REST APIs, and database technologies like PostgreSQL and MySQL. I have practical experience in API optimization, SQL query tuning, defect fixing, Sonar issue resolution, and code reviews. I actively collaborate with QA teams, participate in Agile sprint planning, and ensure timely delivery of high-quality features. I am currently seeking a Java/Full Stack Developer role where I can contribute to impactful projects and grow technically.
+I am a Java Developer with   experience in designing, developing, and maintaining scalable backend applications. My expertise includes Java, Spring Boot, Microservices, Hibernate, REST APIs, and database technologies like PostgreSQL and MySQL. I have practical experience in API optimization, SQL query tuning, defect fixing, Sonar issue resolution, and code reviews. I actively collaborate with QA teams, participate in Agile sprint planning, and ensure timely delivery of high-quality features. I am currently seeking a Java/Full Stack Developer role where I can contribute to impactful projects and grow technically.
 
 
 # 💻 Tech Stack:
